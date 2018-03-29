@@ -1,0 +1,12 @@
+name: photomin
+title: photomin
+username:
+account: joebrew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 311515
+bundleId: 1294295
+url: https://joebrew.shinyapps.io/photomin/
+when: 1522361588.32796
+asMultiple: FALSE
+asStatic: FALSE
